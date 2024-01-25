@@ -10,8 +10,9 @@ Hello, Website!
 #### **HOMEWORK ASSIGNMENTS:**
 
 * HOMEWORK #1
-
   + This is the link for assignment 1: [Link](NewPage.html)
   + Another item  
+  
+  
   
 * HOMEWORK #2

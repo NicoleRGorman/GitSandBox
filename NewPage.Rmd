@@ -10,5 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 HOMEWORK ASSIGNMENTS:
 
+
 This is the link for assignment 1: [Link](NewPage.html)
 
