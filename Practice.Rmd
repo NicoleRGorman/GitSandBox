@@ -9,4 +9,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is a [link]() to my GitHub Repository page.
+This is a [link](https://github.com/NicoleRGorman/PracticeRepo.git) to my GitHub Repository page.
